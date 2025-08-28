@@ -6,8 +6,9 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   compiler: { styledComponents: { ssr: true } },
   images: {
-    unoptimized: true, // se você estiver usando <Image /> do Next
+    unoptimized: true,
   },
+  basePath: 'cardapio.sushi-house'
 
 };
 
