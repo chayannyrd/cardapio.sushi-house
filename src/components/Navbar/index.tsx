@@ -43,7 +43,7 @@ export default function Navbar() {
       {/* Logo que leva para a página inicial */}
       <Link href="/">
         <S.LogoLink>
-          <img src="/logo.jpg" alt="Logo" />
+          <img src="logo.jpg" alt="Logo" />
           <span>Sushi House</span>
         </S.LogoLink>
       </Link>
