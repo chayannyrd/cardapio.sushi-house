@@ -3,6 +3,12 @@
     "name": "Mais Pedidos",
     "items": [
       {
+        "description": "Temaki Hot de Salmão",
+        "price": 22,
+        "image": "/temaki-hot-de-salmao.jpg",
+        "uid": "mp6"
+      },
+      {
         "description": "Combinado Iniciante",
         "price": 34.95,
         "image": "/combinado-iniciante4.jpeg",
@@ -31,12 +37,6 @@
         "price": 7,
         "image": "/coca_cola_lata.jpg",
         "uid": "mp5"
-      },
-      {
-        "description": "Temaki Hot de Salmão",
-        "price": 22,
-        "image": "/temaki-hot-de-salmao.jpg",
-        "uid": "mp6"
       }
     ]
   },
