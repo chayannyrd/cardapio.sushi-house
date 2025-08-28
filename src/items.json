@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Mais Pedidos",
+    "items": [
+      {
+        "description": "Combinado Iniciante",
+        "price": 34.95,
+        "image": "/combinado-iniciante4.jpeg",
+        "uid": "mp1"
+      },
+      {
+        "description": "Hot Dog de Salmão",
+        "price": 27.9,
+        "image": "/hot-dog-de-salmao.jpg",
+        "uid": "mp2"
+      },
+      {
+        "description": "Poke de Salmão e Camarão Empanado",
+        "price": 30,
+        "image": "/poke-de-salmao.jpeg",
+        "uid": "mp3"
+      },
+      {
+        "description": "Combinado Misto",
+        "price": 76,
+        "image": "/combinado-misto8.jpeg",
+        "uid": "mp4"
+      },
+      {
+        "description": "Coca-Cola Lata / Coca-Cola Zero Lata ",
+        "price": 7,
+        "image": "/coca_cola_lata.jpg",
+        "uid": "mp5"
+      },
+      {
+        "description": "Temaki Hot de Salmão",
+        "price": 22,
+        "image": "/temaki-hot-de-salmao.jpg",
+        "uid": "mp6"
+      }
+    ]
+  },
+  {
+    "name": "Entradas",
+    "items": [
+      {
+        "description": "Casquinha Especial",
+        "price": 12,
+        "image": "/casquinha-especial.jpg",
+        "uid": "6862848"
+      },
+      {
+        "description": "Poke de Salmão e Camarão Empanado",
+        "price": 30,
+        "image": "/poke-de-salmao.jpeg",
+        "uid": "11057152"
+      }
+    ]
+  },
+  {
+    "name": "Hossomakis & Uramakis",
+    "items": [
+      {
+        "description": "Hossomaki de Salmão (8 un.)",
+        "price": 20,
+        "image": "/hossomaki-de-salmao.jpg",
+        "uid": "11057153"
+      },
+      {
+        "description": "Hossomaki de Camarão (8 un.)",
+        "price": 23,
+        "image": "/hossomaki-de-camarao.jpg",
+        "uid": "11057154"
+      },
+      {
+        "description": "Uramaki de Camarão (8 un.)",
+        "price": 24,
+        "image": "/urumaki-de-camarao.jpeg",
+        "uid": "11057155"
+      },
+      {
+        "description": "Uramaki de Salmão (8 un.)",
+        "price": 24,
+        "image": "/urumaki-de-salmao.jpeg",
+        "uid": "11057156"
+      }
+    ]
+  },
+  {
+    "name": "Niguiris, Sashimis e Joys",
+    "items": [
+      {
+        "description": "Niguiri de Salmão (4 un.)",
+        "price": 15,
+        "image": "/niguiri-de-salmao.jpg",
+        "uid": "11057157"
+      },
+      {
+        "description": "Sashimi de Salmão (6 un.)",
+        "price": 25,
+        "image": "/sashimi-de-salmao.jpg",
+        "uid": "11057158"
+      },
+      {
+        "description": "Joy Tradicional (8 un.)",
+        "price": 32,
+        "image": "/joy-tradicional.jpg",
+        "uid": "11057159"
+      }
+    ]
+  },
+  {
+    "name": "Temakis & Hot Rolls",
+    "items": [
+      {
+        "description": "Temaki de Camarão",
+        "price": 25,
+        "image": "/temaki-de-camarao.jpg",
+        "uid": "11057160"
+      },
+      {
+        "description": "Temaki de Salmão",
+        "price": 22,
+        "image": "/temaki-de-salmao.jpg",
+        "uid": "11057161"
+      },
+      {
+        "description": "Temaki Hot de Camarão",
+        "price": 25,
+        "image": "/temaki-hot-de-camarao.jpg",
+        "uid": "11057162"
+      },
+      {
+        "description": "Temaki Hot de Salmão",
+        "price": 22,
+        "image": "/temaki-hot-de-salmao.jpg",
+        "uid": "11057163"
+      },
+      {
+        "description": "Hot Couve (4 un.)",
+        "price": 15,
+        "image": "/hot-couve.jpg",
+        "uid": "11057164"
+      },
+      {
+        "description": "Hot de Salmão (4 un.)",
+        "price": 15,
+        "image": "/hot-de-salmao.jpg",
+        "uid": "11057165"
+      },
+      {
+        "description": "Hot Harumaki (4 un.)",
+        "price": 15,
+        "image": "/hot-harumaki.jpg",
+        "uid": "11057166"
+      }
+    ]
+  },
+  {
+    "name": "Pratos Especiais",
+    "items": [
+      {
+        "description": "Sushi Burguer",
+        "price": 29.9,
+        "image": "/sushi-burguer.jpeg",
+        "uid": "11057167"
+      },
+      {
+        "description": "Hot Dog de Salmão",
+        "price": 27.9,
+        "image": "/hot-dog-de-salmao.jpg",
+        "uid": "11057168"
+      },
+      {
+        "description": "Hot Dog de Camarão Empanado",
+        "price": 29.9,
+        "image": "/hot-dog-de-camarao-empanado.jpg",
+        "uid": "11057169"
+      },
+      {
+        "description": "Hot Dog Doce",
+        "price": 29.9,
+        "image": "/hot-dog-doce.jpeg",
+        "uid": "11057170"
+      },
+      {
+        "description": "Mini Temakis de Salmão (6 un.)",
+        "price": 39.9,
+        "image": "/mini-temakis-de-salmao.jpeg",
+        "uid": "11057171"
+      },
+      {
+        "description": "Pizza De Sushi",
+        "price": 39.9,
+        "image": "/pizza-de-sushi.jpg",
+        "uid": "11057172"
+      },
+      {
+        "description": "Temaki de Salmão Aberto",
+        "price": 24,
+        "image": "/temaki-de-salmao-aberto.jpeg",
+        "uid": "11057173"
+      },
+      {
+        "description": "Temaki de Camarão Aberto",
+        "price": 27,
+        "image": "/temaki-de-camarao-aberto.jpeg",
+        "uid": "11057174"
+      }
+    ]
+  },
+  {
+    "name": "Combinados",
+    "items": [
+      {
+        "description": "Combinado Iniciante = 4 harumakis, 4 hot de salmão, 4 hot couve crispy, 2 hot de morango e 1 casquinha especial (15 un.)",
+        "price": 34.95,
+        "image": "/combinado-iniciante4.jpeg",
+        "uid": "11057175"
+      },
+      {
+        "description": "Combinado Iniciante = 8 harumaki, 8 hot de couve crispy, 8 hot de salmão, 3 hot de morango e 3 casquinha especial (30 un.)",
+        "price": 69.9,
+        "image": "/combinado-iniciante8.jpeg",
+        "uid": "11057176"
+      },
+      {
+        "description": "Combinado Misto = 8 harumakis, 4 hot de couve, 2 hot de morango e 2 hot de salmão, 8 uramakis de salmão e 8 hossomaki de salmão (30 un.)",
+        "price": 76,
+        "image": "/combinado-misto8.jpeg",
+        "uid": "11057177"
+      },
+      {
+        "description": "Combinado 1 = 4 hossomakis, 4 hot, 4 uramaki (12 un.)",
+        "price": 35,
+        "image": "/combinado1.jpeg",
+        "uid": "11057178"
+      },
+      {
+        "description": "Combinado 2 = 6 sashimi, 4 niguiri, 4 uramaki (14 un.)",
+        "price": 45,
+        "image": "/combinado2.jpg",
+        "uid": "11057179"
+      },
+      {
+        "description": "Combinado 3 = 4 sashimi, 4 niguiri, 4 Joy, 8 hot de salmão e 4 hossomaki de salmão (24 un.)",
+        "price": 75,
+        "image": "/combinado3.jpg",
+        "uid": "11057180"
+      }
+    ]
+  },
+  {
+    "name": "Sobremesas & Bebidas",
+    "items": [
+      {
+        "description": "Hot de Banana com Chocolate ou Doce de Leite (4 un.)",
+        "price": 15,
+        "image": "/hot-de-banana-com-chocolate.jpg",
+        "uid": "11057181"
+      },
+      {
+        "description": "Coca-Cola Lata / Coca-Cola Zero Lata ",
+        "price": 7,
+        "image": "/coca_cola_lata.jpg",
+        "uid": "11057182"
+      }
+    ]
+  }
+]
