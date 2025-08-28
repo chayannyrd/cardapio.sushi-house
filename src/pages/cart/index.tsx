@@ -9,7 +9,7 @@ import {
   FaArrowLeft,
   FaTrash,
   CheckoutButton
-} from './styled'; // Importa componentes estilizados e ícones
+} from '../../styles/cart'; // Importa componentes estilizados e ícones
 
 export default function CartPage() {
   // Estado local para armazenar os itens do carrinho

@@ -9,7 +9,7 @@ import {
   ModalOverlay,
   ModalContent,
   ModalButton
-} from "./styled"; // Componentes estilizados importados de outro arquivo
+} from "../../styles/checkout"; // Componentes estilizados importados de outro arquivo
 
 export default function CheckoutPage() {
   // Estado do carrinho
