@@ -70,7 +70,7 @@ export default function CheckoutPage() {
 
     // Monta URL do WhatsApp com o número e mensagem
     const url = new URL("https://api.whatsapp.com/send");
-    url.searchParams.set("phone", "5575981556519");
+    url.searchParams.set("phone", "558487733247");
     url.searchParams.set("text", message);
 
     // Abre WhatsApp em nova aba
