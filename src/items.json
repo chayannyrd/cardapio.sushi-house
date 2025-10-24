@@ -162,13 +162,13 @@
     "items": [
         {
         "description": "Pastelão de sushi",
-        "price": 0.0,
+        "price": 32.90,
         "image": "/images/pastelao.jpg",
         "uid": "11057167"
       },
       {
         "description": "Coxinha de sushi",
-        "price": 0.0,
+        "price": 27.90,
         "image": "/images/coxinha-de-sushi.jpg",
         "uid": "11057167"
       },

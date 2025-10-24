@@ -26,7 +26,7 @@ const IndexPage: NextPage = () => {
           textAlign: 'center',
         }}
       >
-        TER, QUI, SEX e DOM dás 18h às 23h.
+        QUI, SEX e DOM dás 18h às 23h.
       </div>
 
       {/* Navbar horizontal com rolagem lateral */}
