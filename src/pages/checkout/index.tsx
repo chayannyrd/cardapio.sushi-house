@@ -63,7 +63,6 @@ export default function CheckoutPage() {
       ``,
       `*Total: R$ ${total.toFixed(2).replace(".", ",")}*`,
       ``,
-      `Obrigado pela preferência, se precisar de algo é só chamar! 😉`,
     ];
 
     const message = lines.join("\n").normalize("NFC"); // Normaliza texto
