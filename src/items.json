@@ -4,7 +4,7 @@
     "items": [
       {
         "description": "Temaki Hot de Salmão",
-        "price": 22,
+        "price": 22.99,
         "image": "/images/temaki-hot-de-salmao.jpg",
         "uid": "mp6"
       },
@@ -22,7 +22,7 @@
       },
       {
         "description": "Poke de Salmão e Camarão Empanado",
-        "price": 30,
+        "price": 35,
         "image": "/images/poke-de-salmao.jpeg",
         "uid": "mp3"
       },
@@ -45,13 +45,13 @@
     "items": [
       {
         "description": "Casquinha Especial",
-        "price": 12,
+        "price": 15,
         "image": "/images/casquinha-especial.jpg",
         "uid": "6862848"
       },
       {
         "description": "Poke de Salmão e Camarão Empanado",
-        "price": 30,
+        "price": 35,
         "image": "/images/poke-de-salmao.jpeg",
         "uid": "11057152"
       }
@@ -68,7 +68,7 @@
       },
       {
         "description": "Hossomaki de Camarão (8 un.)",
-        "price": 23,
+        "price": 25,
         "image": "/images/hossomaki-de-camarao.jpg",
         "uid": "11057154"
       },
@@ -97,13 +97,13 @@
       },
       {
         "description": "Sashimi de Salmão (6 un.)",
-        "price": 25,
+        "price": 28.99,
         "image": "/images/sashimi-de-salmao.jpg",
         "uid": "11057158"
       },
       {
         "description": "Joy Tradicional (8 un.)",
-        "price": 32,
+        "price": 35.9,
         "image": "/images/joy-tradicional.jpg",
         "uid": "11057159"
       }
@@ -120,7 +120,7 @@
       },
       {
         "description": "Temaki de Salmão",
-        "price": 22,
+        "price": 21.99,
         "image": "/images/temaki-de-salmao.jpg",
         "uid": "11057161"
       },
@@ -144,7 +144,7 @@
       },
       {
         "description": "Hot de Salmão (4 un.)",
-        "price": 15,
+        "price": 32.90,
         "image": "/images/hot-de-salmao.jpg",
         "uid": "11057165"
       },
@@ -160,12 +160,21 @@
     "name": "Pratos Especiais",
     
     "items": [
+
+      {
+        "description": "Bolinho de salmão",
+        "price": 30,
+        "image": "/images/bolinho-de-salmão.jpg",
+        "uid": "11057167"
+      },
+
         {
         "description": "Pastelão de sushi",
         "price": 32.90,
         "image": "/images/pastelao.jpg",
         "uid": "11057167"
       },
+
       {
         "description": "Coxinha de sushi",
         "price": 27.90,
@@ -174,7 +183,7 @@
       },
       {
         "description": "Sushi Burguer",
-        "price": 29.9,
+        "price": 30,
         "image": "/images/sushi-burguer.jpeg",
         "uid": "11057167"
       },
@@ -186,7 +195,7 @@
       },
       {
         "description": "Hot Dog de Camarão Empanado",
-        "price": 29.9,
+        "price": 35.9,
         "image": "/images/hot-dog-de-camarao-empanado.jpg",
         "uid": "11057169"
       },
@@ -227,7 +236,7 @@
     "items": [
       {
         "description": "Combinado Iniciante = 4 harumakis, 4 hot de salmão, 4 hot couve crispy, 2 hot de morango e 1 casquinha especial (15 un.)",
-        "price": 34.95,
+        "price": 38,
         "image": "/images/combinado-iniciante4.jpeg",
         "uid": "11057175"
       },
@@ -257,7 +266,7 @@
       },
       {
         "description": "Combinado 3 = 4 sashimi, 4 niguiri, 4 Joy, 8 hot de salmão e 4 hossomaki de salmão (24 un.)",
-        "price": 75,
+        "price": 79.99,
         "image": "/images/combinado3.jpg",
         "uid": "11057180"
       }
