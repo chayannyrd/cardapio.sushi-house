@@ -35,7 +35,7 @@ export default function CheckoutPage() {
 
   // Cálculo de valores
   const subtotal = cartItems.reduce((acc, item) => acc + item.price, 0); // Soma dos preços dos itens
-  const deliveryFee = 1; // Taxa fixa de entrega
+  const deliveryFee = 2; // Taxa fixa de entrega
   const total = subtotal + deliveryFee; // Total final
 
   // Função para enviar o pedido
