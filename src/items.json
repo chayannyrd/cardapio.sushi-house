@@ -6,13 +6,25 @@
         "description": "Temaki Hot de Salmão",
         "price": 22.99,
         "image": "/images/temaki-hot-de-salmao.jpg",
-        "uid": "mp6"
+        "uid": "mp9"
       },
       {
         "description": "Combinado Iniciante",
         "price": 38,
         "image": "/images/combinado-iniciante4.jpeg",
         "uid": "mp1"
+      },
+      {
+        "description": "Petit Gateau de Sushi",
+        "price": 30,
+        "image": "/images/petit-gateau-de-sushi.jpeg",
+        "uid": "mp8"
+      },
+      {
+        "description": "Coca-Cola Lata / Coca-Cola Zero Lata ",
+        "price": 7,
+        "image": "/images/coca_cola_lata.jpg",
+        "uid": "mp5"
       },
       {
         "description": "Hot Dog de Salmão",
@@ -31,12 +43,6 @@
         "price": 76,
         "image": "/images/combinado-misto8.jpeg",
         "uid": "mp4"
-      },
-      {
-        "description": "Coca-Cola Lata / Coca-Cola Zero Lata ",
-        "price": 7,
-        "image": "/images/coca_cola_lata.jpg",
-        "uid": "mp5"
       }
     ]
   },
@@ -160,7 +166,12 @@
     "name": "Pratos Especiais",
     
     "items": [
-
+      {
+        "description": "Petit Gateau de Sushi",
+        "price": 30,
+        "image": "/images/petit-gateau-de-sushi.jpeg",
+        "uid": "mp8"
+      },
       {
         "description": "Bolinho de salmão",
         "price": 30,

@@ -53,6 +53,7 @@ export default class MyDocument extends Document {
           {/* Pré-conexão com Google Fonts para otimizar carregamento */}
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+          <link rel="icon" href="/logo/sushi-house.jpg" />
 
           {/* Importa a fonte Montserrat com várias variações */}
           <link
