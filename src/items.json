@@ -166,6 +166,12 @@
     "name": "Pratos Especiais",
     
     "items": [
+            {
+        "description": "Sushi sem arroz - 4 unidades",
+        "price": 15,
+        "image": "/images/sushi-sem-arroz.jpeg",
+        "uid": "110571744"
+      },
       {
         "description": "Petit Gateau de Sushi",
         "price": 30,
