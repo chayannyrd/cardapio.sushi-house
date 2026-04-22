@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^16.1.4",
+    "next": "^15.5.15",
     "nodejs-snowflake": "^2.0.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
