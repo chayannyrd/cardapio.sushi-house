@@ -69,11 +69,7 @@
       {
         "description": "Hossomaki de Salmão (8 un.)",
         "price": 20,
-<<<<<<< HEAD
-        "image": "/images/hossomaki-de-salmao.jpg",
-=======
         "image": "/images/hossomaki-de-salmao.jpeg",
->>>>>>> d74cf00 (joys)
         "uid": "11057153"
       },
       {
@@ -96,18 +92,13 @@
       }
     ]
   },
-  
   {
     "name": "Niguiris, Sashimis e Joys",
     "items": [
       {
         "description": "Niguiri de Salmão (4 un.)",
         "price": 15,
-<<<<<<< HEAD
-        "image": "/images/niguiri-de-salmao.jpg",
-=======
         "image": "/images/niguiri-de-salmao.jpeg",
->>>>>>> d74cf00 (joys)
         "uid": "11057157"
       },
       {
@@ -119,10 +110,6 @@
       {
         "description": "Joy Tradicional (8 un.)",
         "price": 35.9,
-<<<<<<< HEAD
-        "image": "/images/joy-tradicional.jpg",
-        "uid": "11057159"
-=======
         "image": "/images/joy-tradicional.jpeg",
         "uid": "11057159"
       },
@@ -149,7 +136,6 @@
         "price": 38.99,
         "image": "/images/joy-brulee.jpeg",
         "uid": "1105715934jf"
->>>>>>> d74cf00 (joys)
       }
     ]
   },
@@ -181,21 +167,18 @@
         "uid": "11057163"
       },
       {
-<<<<<<< HEAD
-=======
-        "description": "Temaki Hot harumaki de salmão",
+        "description": "Temaki Hot Hamaki de Salmão",
         "price": 25,
         "image": "/images/temaki-hot-hamuraki-de-salmao.jpeg",
         "uid": "11057163nn"
       },
       {
-        "description": "Temaki Hot harumaki aberto",
-        "price": 27,
+        "description": "Temaki Hot Harumaki Aberto",
+        "price": 25,
         "image": "/images/temaki-hot-hamuraki-aberto.jpeg",
         "uid": "11057163nnd"
       },
       {
->>>>>>> d74cf00 (joys)
         "description": "Hot Couve (4 un.)",
         "price": 15,
         "image": "/images/hot-couve.jpg",
@@ -289,11 +272,7 @@
       },
       {
         "description": "Temaki de Salmão Aberto",
-<<<<<<< HEAD
-        "price": 24,
-=======
         "price": 25,
->>>>>>> d74cf00 (joys)
         "image": "/images/temaki-de-salmao-aberto.jpeg",
         "uid": "11057173"
       },
@@ -360,15 +339,12 @@
         "price": 7,
         "image": "/images/coca_cola_lata.jpg",
         "uid": "11057182"
-<<<<<<< HEAD
-=======
       },
       {
         "description": "Coca-Cola 1L / Coca-Cola Zero 1L ",
         "price": 12,
         "image": "/images/coca-cola-1l.png",
         "uid": "11057182w"
->>>>>>> d74cf00 (joys)
       }
     ]
   }
