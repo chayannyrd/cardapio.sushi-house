@@ -64,6 +64,7 @@ export default function CheckoutPage() {
       `*Total: R$ ${total.toFixed(2).replace(".", ",")}*`,
       ``,
     ];
+    
 
     const message = lines.join("\n").normalize("NFC"); // Normaliza texto
 
